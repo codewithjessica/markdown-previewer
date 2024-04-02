@@ -4,14 +4,16 @@ import styled from "styled-components";
 // Define a textarea styled component
 const StyledTextArea = styled.textarea`
   width: 100%;
+  height: 100vh;
+  display: flex;
   font-size: 16px;
+  padding: 10px;
 `;
 
 const InputContainer = styled.div`
+  width: 50%;
+  border-style: solid;
   display: flex;
-  flex-flow: row start;
-  width: 40%;
-  height: 500px;
 `;
 
 // define the interface for the props (one is listed below)

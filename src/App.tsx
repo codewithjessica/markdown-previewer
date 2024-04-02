@@ -30,10 +30,7 @@ const App = () => {
       {/* Wrapped within a styled component div named Container */}
       <Container>
         {/* MarkdownInput (pass the markdown text as a value to this component as well as the handle change function) */}
-        <MarkdownInput
-          onChange={handleMarkdownChange}
-          value={markdown}
-        />
+        <MarkdownInput onChange={handleMarkdownChange} value={markdown} />
         {/* MarkdownOutput (pass the markdown text as a prop to this component*/}
         <MarkdownOutput markdown={markdown} />
       </Container>

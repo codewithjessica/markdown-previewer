@@ -6,10 +6,10 @@ import ReactMarkdown from "react-markdown";
 
 // Create a Output container styled component which is a div
 const OutputContainer = styled.div`
-    width: 40%;
-    height: 100%
-    display: flex;
-    flex-flow: row end;
+  width: 50%;
+  padding: 10px;
+  border-style: solid;
+  display: flex;
 `;
 
 // create the interface for the props
