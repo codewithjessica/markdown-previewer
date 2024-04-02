@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 ## Screen Short
-[![Screen Short]([image_url](https://github.com/codewithjessica/markdown-previewer/assets/112827168/f382e864-0721-49e5-857d-a7f2cf02c99e))](https://codewithjessica-markdown-previewer.netlify.app/)
+[([image_url](https://github.com/codewithjessica/markdown-previewer/assets/112827168/f382e864-0721-49e5-857d-a7f2cf02c99e))](https://codewithjessica-markdown-previewer.netlify.app/)
 
 ## Reference 
 Markdown syntax: https://www.markdownguide.org/cheat-sheet/
