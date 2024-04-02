@@ -2,7 +2,7 @@
 
 This project uses React, Typescript (.tsx/ts) and styled-components. It takes user input in Markdown format, and displays the converted HTML in real time.
 
-🔗 <b>view my project:</b> https://codewithjessica-markdown-previewer.netlify.app/
+🔗 <b>View my project:</b> https://codewithjessica-markdown-previewer.netlify.app/
 
 ## Build Project
 
