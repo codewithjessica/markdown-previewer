@@ -9,7 +9,6 @@ const OutputContainer = styled.div`
   width: 50%;
   padding: 10px;
   border-style: solid;
-  display: flex;
 `;
 
 // create the interface for the props
